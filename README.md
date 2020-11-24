@@ -1,1 +1,3 @@
 # E-Commerce-project-proposal
+
+# This Project aims at design and implementation of an Ecommerce website for a local bookstore situated in Boston. This ensures easy access to the offered products which hopes to expand the customer base of the bookstore. The objective is to develop a high-end design with clean and efficient navigation structure for different devices. The Project proposal comprehends wireframing, developing and testing. The intention is to provide detailed framework explaining the plans and strategies involved. It also establishes process flow, timeframe and budget. The focus is to satisfy the website requirements with cost-effective methodologies offering Quality assurances.
